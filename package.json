@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "caxy-razzle",
   "homepage": "https://github.com/jaredpalmer/razzle#readme",
   "repository": {
     "type": "git",
